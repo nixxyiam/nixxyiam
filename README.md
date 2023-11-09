@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicholashozy
+- 👋 Hi, I’m @iamnixxy
 - 👀 I’m interested in cryptography, software development, web 3.0 and post-quantum cybersecurity.
 - 🌱 I’m always actively learning about tech topics for fun, joy and laughter.
 - 💞️ I’m not lookiong for collaborations right now.
