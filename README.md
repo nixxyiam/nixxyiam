@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicholashozy
-- 👀 I’m interested in cryptography, software development and cybersecurity.
-- 🌱 I’m currently learning functional language for fun, joy and laughter.
+- 👀 I’m interested in cryptography, software development, web 3.0 and post-quantum cybersecurity.
+- 🌱 I’m always actively learning about tech topics for fun, joy and laughter.
 - 💞️ I’m not lookiong for collaborations right now.
-- 📫 How to reach me ...
+- 📫 Reach out to me via logging into your GitHub account.
 
 <!---
 nicholashozy/nicholashozy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
