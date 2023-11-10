@@ -4,6 +4,7 @@
 - 💞️ I’m not lookiong for collaborations right now.
 - 📫 Reach out to me via logging into your GitHub account.
 
+Posts  
 [Setup VS Code for Markdown with WSL2 Ubuntu](vscode-wsl-ubuntu.md)
 
 
