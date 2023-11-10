@@ -4,9 +4,12 @@
 - 💞️ I’m not lookiong for collaborations right now.
 - 📫 Reach out to me via logging into your GitHub account.
 
+[Setup VS Code for Markdown with WSL2 Ubuntu](./vscode-wsl-ubuntu.md)
+
+
 <!---
 nixxyiam/nixxyiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[Setup VS Code for Markdown with WSL2 Ubuntu](./vscode-wsl-ubuntu.md)
+
