@@ -1,4 +1,4 @@
-# Setup VS Code to Edit Markdowns on WSL2 Ubuntu
+# Setup VS Code for Markdowns on WSL2 Ubuntu
 
 This guide explains how to set up VS Code to modify Markdown files on WSL2 Ubuntu LTS with Visual Studio Code as the your main IDE.
 This guidewas validated on Windows 11 Home 23H2.
