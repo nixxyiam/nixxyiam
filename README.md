@@ -5,7 +5,7 @@
 - 📫 Reach out to me via logging into your GitHub account.
 
 Posts  
-[Setup VS Code for Markdown with WSL2 Ubuntu](vscode-wsl-ubuntu.md)
+[Setup VS Code for Markdown with WSL2 Ubuntu](vscode-wsl-ubuntu.md)  
 [Setup git on WSL2 Ubuntu for Signed Commits to GitHub Repository](git-pgp-ubuntu.md)
 
 <!---
