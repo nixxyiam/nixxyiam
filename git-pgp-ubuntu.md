@@ -1,13 +1,20 @@
-# Setup git on WSL2 Ubuntu for Signed Commits to GitHub Repository
+# Easy Guide to Setup git with GitHub and WSL2 Ubuntu
 
-This guide assumes you have already
+This guide aims to minimise time for developers to set up new Windows development systems that require Git, GitHub, GPG, and Visual Studio Code (VS Code) as part of the development workflow.
 
-- set up a GitHub account
-- installed WSL2 Ubuntu LTS
+The following assumptions have been made to avoid an overly lengthly writeup:
+
+- Development system uses
+  - Windows 11 Home 23H2 or later.
+  - WSL2 Ubuntu 22.04.2 LTS.
+- The developer has an existing GitHub account.
+- The developer's GitHub account has at least one repository.
+- Signed commits to GitHub is desired.
+- VS Code will be the primary Git editor.
 
 ## Install Git
 
-1. Open Terminal -> Ubuntu 22.04.2 LTS. Ensure packages are updated.
+1. Open Ubuntu 22.04.2 LTS terminal. Ensure packages are updated.
 
        sudo apt-get update
        sudo apt-get upgrade
@@ -93,6 +100,23 @@ This guide assumes you have already
 2. Copy GPG public key, beginning with `-----BEGIN PGP PUBLIC KEY BLOCK-----` and ending with `-----END PGP PUBLIC KEY BLOCK-----`.
 
 3. Go to GitHub website -> Profile Picture -> Settings -> SSH and GPG Keys. Click "New GPG key" and paste the copied GPG public key.
+
+## Clone GitHub repository to local Git
+
+1. Go to GitHub website -> REPOSITORY_NAME -> Code button -> Local -> Clone (HTTPS). Copy the WEB_URL for your repository.
+
+2. In your Ubuntu terminal, clone the remote GitHub repo to local Git repo.
+
+        git clone WEB_URL
+
+   Verify remote repo is successfully cloned into local Git repo with
+
+       cd REPOSITORY_NAME
+       git status
+
+## Configure VS Code as Git Editor
+
+To be filled in...
 
 ## References
 
