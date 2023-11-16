@@ -6,7 +6,7 @@
 
 Posts  
 [Setup VS Code for Markdown with WSL2 Ubuntu](vscode-wsl-ubuntu.md)
-
+[Setup git on WSL2 Ubuntu for Signed Commits to GitHub Repository](git-pgp-ubuntu.md)
 
 <!---
 nixxyiam/nixxyiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
